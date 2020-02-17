@@ -1,4 +1,4 @@
-#bingo_simulator.py
+# bingo_simulator.py
 
 ## Introduction
 This application is a very simple bingo simulator that I used to learn a few features of python.   It is a very simple application to run.   All the options will be prompted to the users.
