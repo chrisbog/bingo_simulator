@@ -7,7 +7,7 @@ This application is a very simple bingo simulator that I used to learn a few fea
 ```buildoutcfg
 python bingo_simulator.py
 ```
-##Sample Output
+## Sample Output
 ```buildoutcfg
 Welcome to a Simple Bingo Simulator
 Please select the type of bingo game you want to simulate:
